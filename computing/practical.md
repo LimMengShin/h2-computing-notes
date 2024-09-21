@@ -8,8 +8,8 @@
 ## Searching Algorithms
 ### Linear Search
 ### Binary Search
-#### Iterative
-#### Recursive
+#### [Iterative](code/binary_search_iterative.py)
+#### [Recursive](code/binary_search_recursive.py)
 ### Hash Table Search
 #### Linear Probing
 ##### Non-OOP
