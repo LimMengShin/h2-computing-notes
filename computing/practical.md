@@ -1,10 +1,10 @@
 ## Sorting Algorithms
-### [Bubble Sort](bubble_sort.py)
-### [Insertion Sort](insertion_sort.py)
+### [Bubble Sort](code/bubble_sort.py)
+### [Insertion Sort](code/insertion_sort.py)
 ### Quick Sort
-#### [Not In-Place](quick_sort_nip.py)
+#### [Not In-Place](code/quick_sort_nip.py)
 #### In-Place
-### [Merge Sort](merge_sort.py)
+### [Merge Sort](code/merge_sort.py)
 ## Searching Algorithms
 ### Linear Search
 ### Binary Search
